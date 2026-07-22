@@ -70,26 +70,6 @@ The website is optimized for:
 
 ---
 
-## 🚀 Getting Started
-
-Clone the repository
-
-```bash
-git clone https://github.com/yourusername/portfolio.git
-```
-
-Open the project
-
-```bash
-cd portfolio
-```
-
-Run
-
-Simply open `index.html` in your browser.
-
----
-
 ## 📸 Sections
 
 - Home
