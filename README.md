@@ -146,11 +146,9 @@ Fork the repository, create a new branch, and submit a pull request.
 
 Graphic Designer • Web Developer • UI/UX Designer
 
-Email: your@email.com
+Email: theartforma@gmail.com
 
-Portfolio: https://yourportfolio.com
-
-LinkedIn: https://linkedin.com/in/yourprofile
+Portfolio: https://seemab-portfolio.infinityfree.io
 
 ---
 
