@@ -47,24 +47,6 @@ The project focuses on creating a premium user experience through smooth animati
 
 ---
 
-## 📂 Project Structure
-
-```
-Portfolio/
-│
-├── assets/
-│   ├── css/
-│   ├── js/
-│   ├── images/
-│   └── icons/
-│
-├── index.html
-├── README.md
-└── LICENSE
-```
-
----
-
 ## 🎨 Design Highlights
 
 - Dark modern interface
